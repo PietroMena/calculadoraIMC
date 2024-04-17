@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Esse app calcula o seu IMC, e diz se está no peso certo, o que conserceteza é uma ajuda; fiz para uma lição da escola e com ajuda de Julio Coronetti @JulioCoronetti, e deu ceu certo. obg😊 
